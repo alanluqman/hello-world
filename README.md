@@ -7,7 +7,11 @@
 
 ## Built With
 
-- HTML, CSS
+ Markup : 
+ * HTML
+ * CSS
+ * Stylized Code with Stylelint
+
 
 ## Live Demo (if available)
 
