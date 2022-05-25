@@ -2,7 +2,7 @@
 
 # Hello Microverse
 
-> this is one of Microverse project tp practice github lessons,Create new branch and make a Pull Request (PR).
+> This is one of Microverse project to practice github lessons,Create new branch and make a Pull Request (PR).
 
 
 ## Built With
