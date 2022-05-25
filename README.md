@@ -7,7 +7,6 @@
 
 ## Built With
 
- Markup : 
  * HTML
  * CSS
  * Stylized Code with Stylelint
