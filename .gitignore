@@ -1,2 +1,3 @@
-# Ignore all files with extention :
-*.md
+# Ignore  files   :
+test.md
+node_modules
